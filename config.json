@@ -1,0 +1,10 @@
+{
+	"server": "dbwt.net",
+	"channel": "#dbwt",
+	"nick": "KebertXela",
+	"password": null,
+	"plugins": [
+		"choice",
+		"trivia"
+	]
+}

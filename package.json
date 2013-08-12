@@ -1,0 +1,16 @@
+﻿{
+	"name": "TwoDee-Bot",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"redwrap": "x",
+		"irc": "x",
+		"youtube-feeds": "x",
+		"request": "x",
+		"google": "0.3.x",
+		"ent": "x",
+		"csv": "0.2.x",
+		"cheerio": "x",
+		"q": "x"
+	}
+}
